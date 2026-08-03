@@ -1,5 +1,5 @@
 
-CONFIGS_REPO_URL ?= https://github.com/betaflight/config
+CONFIGS_REPO_URL ?= https://github.com/gwlim/config
 # handle only this directory as config submodule
 CONFIGS_SUBMODULE_DIR := src/config
 # Configs live either flat (configs/<BOARD>/config.h) or grouped by manufacturer
